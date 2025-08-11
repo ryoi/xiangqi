@@ -1,8 +1,6 @@
 # Xiangqi (Chinese Chess) – Web Game
 
-A modern web-based implementation of **Xiangqi (Chinese Chess)** with a responsive UI, move logging, captured pieces display, evaluation bar, adaptive AI opponent, and game result overlays.
-
-![Xiangqi Board Screenshot](screenshot.png)
+This is my first vibecoding project - A modern web-based implementation of **Xiangqi (Chinese Chess)** with a responsive UI, move logging, captured pieces display, evaluation bar, adaptive AI opponent, and game result overlays.
 
 ---
 
